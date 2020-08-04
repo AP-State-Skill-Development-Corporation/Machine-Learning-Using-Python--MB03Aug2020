@@ -13,8 +13,11 @@ This repository consists of all the files discussed during Machine Learning usin
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1BDljsM5LYeWMCDfJtZ3LnkAxDxjOIhVT0sVPdURPTdA/edit?usp=sharing) 
 
 ### Day1 
-1. [Recorded class expires within 7days on 10Aug2020](https://transcripts.gotomeeting.com/#/s/c594dcb61e9a30a7f83555c4d06a77e25f1f921312249148851811a48d1a3e0f)
+1. [Notebook](Day-1/03-08-2020_csvmanipulation.ipynb)
+2. [Recorded class expires within 7days on 10Aug2020](https://transcripts.gotomeeting.com/#/s/c594dcb61e9a30a7f83555c4d06a77e25f1f921312249148851811a48d1a3e0f)
 
 ### Day2
-1. [Notebook not updated take sometime]()
+
+1. [Notebook](Day-2/04-08-2020_LinearRegression.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/8edcd6371fac38619530eaa4e9a055aa82120c212ef43342b78f45331811970a)
+3. [weather.csv](Day-2/weather.csv)
