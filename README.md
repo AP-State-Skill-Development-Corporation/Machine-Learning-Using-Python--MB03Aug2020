@@ -1,7 +1,7 @@
 # Machine-Learning-Using-Python--MB03Aug2020
 This repository consists of all the files discussed during Machine Learning using Python ,9 Days  Online Training from 03-Aug-2020 -morning batch
 
-#### Verify Your Deatils for Certificate by the end of today(3Aug2020) → [[GSheet]](https://docs.google.com/spreadsheets/d/1GP3Dpp7Buy6aXvNhLcsHZXxIpHYHELCNgFl549XzVio/edit?usp=sharing)
+
 
 ### Instructions for attendance
 1. login format  **rollnumber-name-college**
@@ -21,3 +21,8 @@ This repository consists of all the files discussed during Machine Learning usin
 1. [Notebook](Day-2/04-08-2020_LinearRegression.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/8edcd6371fac38619530eaa4e9a055aa82120c212ef43342b78f45331811970a)
 3. [weather.csv](Day-2/weather.csv)
+
+### Day3
+
+1. [Notebook not updated]()
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/a73224b6f13d000fc9077e3e849f538fb2ac78f8db3164f3d5ddce8c87173899)
