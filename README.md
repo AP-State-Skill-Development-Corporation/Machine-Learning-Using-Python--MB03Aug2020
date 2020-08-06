@@ -24,10 +24,11 @@ This repository consists of all the files discussed during Machine Learning usin
 
 ### Day3
 
-1. [Notebook not updated]()
+1. [Notebook](Day-3/05-08-2020_Regression.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/a73224b6f13d000fc9077e3e849f538fb2ac78f8db3164f3d5ddce8c87173899)
 
 
 ### Day4
 
-1. [shirtsize.csv](Day-4/shirtsize.csv)
+1. [Notebook](Day-4/Day4_06Aug2020.ipynb)
+2. [Recorded class pending]()
