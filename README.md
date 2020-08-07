@@ -31,4 +31,4 @@ This repository consists of all the files discussed during Machine Learning usin
 ### Day4
 
 1. [Notebook](Day-4/Day4_06Aug2020.ipynb)
-2. [Recorded class pending]()
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/e7b3209741e0bf28e0daa3e8bb6f224b25d3c8372ceb7266dab3df61651951a1)
