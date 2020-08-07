@@ -32,3 +32,8 @@ This repository consists of all the files discussed during Machine Learning usin
 
 1. [Notebook](Day-4/Day4_06Aug2020.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/e7b3209741e0bf28e0daa3e8bb6f224b25d3c8372ceb7266dab3df61651951a1)
+
+### Day5
+
+1. [Notebook2](Day-5/07-08-2020_SVM.ipynb)
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/84dc6adde5a38459239be2d07e6e5d10a0129d74006267757475c585d03da902)
