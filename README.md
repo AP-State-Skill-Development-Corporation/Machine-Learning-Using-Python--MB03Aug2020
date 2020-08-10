@@ -47,5 +47,5 @@ This repository consists of all the files discussed during Machine Learning usin
 ### Day7
 
 1. [Notebook](Day-7/Day7_10Aug2020.ipynb)
-2. [Reliance.csv](Day-/reliance.csv)
+2. [Reliance.csv](Day-7/reliance.csv)
 2. [Recorded class pending]()
