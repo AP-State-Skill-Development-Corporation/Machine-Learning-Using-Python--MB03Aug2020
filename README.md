@@ -43,3 +43,9 @@ This repository consists of all the files discussed during Machine Learning usin
 
 1. [Notebook](Day-6/08-08-2020_DecisionTree.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/7073afedc885bfd9995dcdce88c527f5c37f9b3ea26499477d6b5a5689c1b4a2)
+
+### Day7
+
+1. [Notebook](Day-7/Day7_10Aug2020.ipynb)
+2. [Reliance.csv](Day-/reliance.csv)
+2. [Recorded class pending]()
