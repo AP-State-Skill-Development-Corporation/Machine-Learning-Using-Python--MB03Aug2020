@@ -55,6 +55,10 @@ This repository consists of all the files discussed during Machine Learning usin
 1. [Notebook](Day-8/Day8_11Aug2020.ipynb)
 2. [Recorded Video](https://transcripts.gotomeeting.com/#/s/bd832deab7afaa37246974acf45a935e54c8e72d0a24727af6ad730ad230f4b8)
 
+### Day9
+
+1. [Notebook](Day9/Day9_12Aug2020.ipynb)
+2. [Video pending]()
 
 
 ### [RecordedVideos](https://drive.google.com/drive/folders/1cz8mGI24IrX2q_VKmdJNJRK0abrEgsKO?usp=sharing)
