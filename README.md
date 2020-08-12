@@ -57,7 +57,7 @@ This repository consists of all the files discussed during Machine Learning usin
 
 ### Day9
 
-1. [Notebook](Day9/Day9_12Aug2020.ipynb)
+1. [Notebook](Day-9/Day9_12Aug2020.ipynb)
 2. [Video pending]()
 
 
